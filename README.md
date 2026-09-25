@@ -42,7 +42,3 @@ people make safer decisions online.
 ## Project Status
 
 Early Research 🔬
-
-## License
-
-See [LICENSE](LICENSE).
